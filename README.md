@@ -2,7 +2,7 @@
 crea un repositorio llamado Temario de Aplicaciones Web con el archivo README en donde investigarás con imágenes los temas propuestos.
 
 ## 🧠 Propósito de Aprendizaje 1: Comprender los Fundamentos del Desarrollo de Aplicaciones Web
- <img width="320" height="158" alt="image" src="https://github.com/user-attachments/assets/69609ba2-d7bf-4a7a-bbe0-9df74be263db" />
+<img width="322" height="151" alt="image" src="https://github.com/user-attachments/assets/0ff91ba9-cb3c-45d6-aa3c-fa564fa57054" />
 
 
 ### 1. Introducción al Desarrollo Web
@@ -38,6 +38,8 @@ crea un repositorio llamado Temario de Aplicaciones Web con el archivo README en
 - **JavaScript:** Lenguaje que añade interactividad y dinamismo en el navegador.  
 - **PHP:** Lenguaje del lado servidor que genera contenido dinámico y maneja lógica backend.  
 - **MySQL:** Sistema de gestión de bases de datos relacional para almacenar y consultar datos.
+  <img width="282" height="166" alt="image" src="https://github.com/user-attachments/assets/84bf19f0-2030-400e-8c4e-230a504a61ad" />
+
 
 ### 4. Control de Versiones
 - **Git:** Herramienta para guardar el historial de cambios en el código y facilitar el trabajo colaborativo.  
@@ -50,7 +52,9 @@ crea un repositorio llamado Temario de Aplicaciones Web con el archivo README en
 ---
 
 ## 💻 Propósito de Aprendizaje 2: Desarrollar Componentes y Funcionalidades de una Aplicación Web
-<img width="268" height="175" alt="image" src="https://github.com/user-attachments/assets/abd618a2-f1a2-4025-b865-35682054bb37" />
+<img width="279" height="175" alt="image" src="https://github.com/user-attachments/assets/3f61f89e-955d-4f23-ace1-16a6849e9c6e" />
+
+
 
 
 ### 1. Diseño e Implementación del Frontend
@@ -66,6 +70,8 @@ crea un repositorio llamado Temario de Aplicaciones Web con el archivo README en
 - **Conexión a bases de datos:** Comunicación con sistemas como MySQL o MongoDB para guardar o consultar información.
 
 ### 3. Bases de Datos
+<img width="302" height="177" alt="image" src="https://github.com/user-attachments/assets/bb7dd588-c729-4886-a250-4a0ecc13068e" />
+
 - **Modelado de datos:** Diseño de la estructura de información y relaciones entre entidades.  
 - **ORM:** Herramientas que permiten manejar bases de datos con código orientado a objetos.  
 - **CRUD:** Operaciones básicas para crear, leer, actualizar y borrar datos.
@@ -78,7 +84,8 @@ crea un repositorio llamado Temario de Aplicaciones Web con el archivo README en
 ---
 
 ## 🚀 Propósito de Aprendizaje 3: Implementar y Desplegar una Aplicación Web Funcional
-<img width="304" height="167" alt="image" src="https://github.com/user-attachments/assets/465e8251-7ca7-4a78-acae-3dc37e037947" />
+<img width="302" height="166" alt="image" src="https://github.com/user-attachments/assets/703e5773-4983-41fe-a450-b83a8b62db3b" />
+
 
 
 ### 1. Integración de Frontend y Backend
