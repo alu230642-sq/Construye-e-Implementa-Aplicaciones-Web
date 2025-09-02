@@ -102,8 +102,6 @@ crea un repositorio llamado Temario de Aplicaciones Web con el archivo README en
 ---
 
 ## 📚 Recursos y Ejemplos
-
-- Aquí se pueden incluir enlaces a documentación oficial, tutoriales, y ejemplos prácticos para apoyar el aprendizaje y la implementación.
 - https://playfulagency.com/blog/tecnologia/desarrollo-de-aplicaciones-web/
 - https://tripleten.mx/blog/que-es-el-desarrollo-web/
 - https://www.esic.edu/rethink/tecnologia/que-son-las-aplicaciones-web-c
