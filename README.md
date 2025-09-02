@@ -2,7 +2,7 @@
 crea un repositorio llamado Temario de Aplicaciones Web con el archivo README en donde investigarás con imágenes los temas propuestos.
 
 ## 🧠 Propósito de Aprendizaje 1: Comprender los Fundamentos del Desarrollo de Aplicaciones Web
-<img width="320" height="158" alt="image" src="https://github.com/user-attachments/assets/69609ba2-d7bf-4a7a-bbe0-9df74be263db" />
+      <img width="320" height="158" alt="image" src="https://github.com/user-attachments/assets/69609ba2-d7bf-4a7a-bbe0-9df74be263db" />
 
 
 ### 1. Introducción al Desarrollo Web
@@ -50,7 +50,7 @@ crea un repositorio llamado Temario de Aplicaciones Web con el archivo README en
 ---
 
 ## 💻 Propósito de Aprendizaje 2: Desarrollar Componentes y Funcionalidades de una Aplicación Web
-<img width="268" height="175" alt="image" src="https://github.com/user-attachments/assets/abd618a2-f1a2-4025-b865-35682054bb37" />
+       <img width="268" height="175" alt="image" src="https://github.com/user-attachments/assets/abd618a2-f1a2-4025-b865-35682054bb37" />
 
 
 ### 1. Diseño e Implementación del Frontend
@@ -78,7 +78,7 @@ crea un repositorio llamado Temario de Aplicaciones Web con el archivo README en
 ---
 
 ## 🚀 Propósito de Aprendizaje 3: Implementar y Desplegar una Aplicación Web Funcional
-<img width="304" height="167" alt="image" src="https://github.com/user-attachments/assets/465e8251-7ca7-4a78-acae-3dc37e037947" />
+       <img width="304" height="167" alt="image" src="https://github.com/user-attachments/assets/465e8251-7ca7-4a78-acae-3dc37e037947" />
 
 
 ### 1. Integración de Frontend y Backend
