@@ -70,8 +70,6 @@ crea un repositorio llamado Temario de Aplicaciones Web con el archivo README en
 - **Conexión a bases de datos:** Comunicación con sistemas como MySQL o MongoDB para guardar o consultar información.
 
 ### 3. Bases de Datos
-<img width="302" height="177" alt="image" src="https://github.com/user-attachments/assets/bb7dd588-c729-4886-a250-4a0ecc13068e" />
-
 - **Modelado de datos:** Diseño de la estructura de información y relaciones entre entidades.  
 - **ORM:** Herramientas que permiten manejar bases de datos con código orientado a objetos.  
 - **CRUD:** Operaciones básicas para crear, leer, actualizar y borrar datos.
