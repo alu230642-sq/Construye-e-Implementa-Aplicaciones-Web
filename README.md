@@ -111,3 +111,10 @@ crea un repositorio llamado Temario de Aplicaciones Web con el archivo README en
 ---
 
 > **Nota:** Este temario es una base sólida para estudiar y profundizar en el desarrollo de aplicaciones web, facilitando el aprendizaje estructurado y práctico.
+>
+> <img width="1349" height="573" alt="image" src="https://github.com/user-attachments/assets/2e51e98d-6d2b-4eca-ab01-9dbc057b05d6" />
+<img width="441" height="567" alt="image" src="https://github.com/user-attachments/assets/15571f70-053e-48f1-84a2-3f44047ad5f9" />
+<img width="451" height="218" alt="image" src="https://github.com/user-attachments/assets/25115673-189b-4789-a402-55b1e69a5cc0" />
+
+
+
